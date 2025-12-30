@@ -1,0 +1,28 @@
+{
+  "id": "root",
+  "title": "Frontend Internship",
+  "summary": "Assignment Scope",
+  "details": "Build a data driven interactive mindmap",
+  "children": [
+    {
+      "id": "ui",
+      "title": "UI",
+      "summary": "User Interface",
+      "details": "All UI logic",
+      "children": [
+        {
+          "id": "hover",
+          "title": "Hover",
+          "summary": "Hover Info",
+          "details": "Tooltip on hover"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Data",
+      "summary": "JSON Driven",
+      "details": "Changing JSON updates UI"
+    }
+  ]
+}
