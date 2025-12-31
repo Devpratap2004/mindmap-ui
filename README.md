@@ -18,7 +18,8 @@ This project is **not intended for production use** — it is created to demonst
 
 * **React + Vite**
 * **D3.js** (for visualization)
-* **CSS / JavaScript**
+* **TailwindCSS / JavaScript**
+
 
 ---
 
